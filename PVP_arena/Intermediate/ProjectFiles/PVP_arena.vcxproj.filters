@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PVP_arena.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2FAEAB9D-1EA7-40DF-BB96-F7C69C31EE7B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PVP_arena.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PVP_arenaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{10C9F960-C404-40C7-8EC2-97B2C807D402}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PVP_arena">
+      <UniqueIdentifier>{DAFA0095-82B8-4C4B-937E-F5193CC0C9D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PVP_arena\PVP_arena.Build.cs">
+      <Filter>Source\PVP_arena</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PVP_arena\PVP_arena.cpp">
+      <Filter>Source\PVP_arena</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVP_arena\PVP_arena.h">
+      <Filter>Source\PVP_arena</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVP_arena\PVP_arenaCharacter.cpp">
+      <Filter>Source\PVP_arena</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVP_arena\PVP_arenaCharacter.h">
+      <Filter>Source\PVP_arena</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVP_arena\PVP_arenaGameMode.cpp">
+      <Filter>Source\PVP_arena</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVP_arena\PVP_arenaGameMode.h">
+      <Filter>Source\PVP_arena</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVP_arena\PVP_arenaHUD.cpp">
+      <Filter>Source\PVP_arena</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVP_arena\PVP_arenaHUD.h">
+      <Filter>Source\PVP_arena</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVP_arena\PVP_arenaProjectile.cpp">
+      <Filter>Source\PVP_arena</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVP_arena\PVP_arenaProjectile.h">
+      <Filter>Source\PVP_arena</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

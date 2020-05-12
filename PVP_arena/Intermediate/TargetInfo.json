@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PVP_arena",
+			"Path": "C:\\Users\\umbac\\Documents\\Unreal Projects\\PVP_arena\\Source\\PVP_arena.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PVP_arenaEditor",
+			"Path": "C:\\Users\\umbac\\Documents\\Unreal Projects\\PVP_arena\\Source\\PVP_arenaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

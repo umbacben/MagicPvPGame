@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\umbac\\Documents\\Unreal Projects\\PVP_arena\\Source\\PVP_arena\\PVP_arena.Build.cs",
+		"C:\\Users\\umbac\\Documents\\Unreal Projects\\PVP_arena\\Source\\PVP_arena.Target.cs",
+		"C:\\Users\\umbac\\Documents\\Unreal Projects\\PVP_arena\\Source\\PVP_arenaEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}

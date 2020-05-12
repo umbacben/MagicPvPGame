@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PVP_arena.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\PVP_arenaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arena.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaCharacter.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaGameMode.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaHUD.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaProjectile.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arena.init.gen.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaCharacter.gen.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaGameMode.gen.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaHUD.gen.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\PVP_arenaProjectile.gen.cpp.obj"
+"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\Default.rc2.res"
+/OUT:"C:\Users\umbac\Documents\Unreal Projects\PVP_arena\Intermediate\Build\Win64\UE4Editor\Development\PVP_arena\UE4Editor-PVP_arena.lib"
+/INCLUDE:IMPLEMENT_MODULE_PVP_arena
